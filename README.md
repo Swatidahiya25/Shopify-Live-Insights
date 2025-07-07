@@ -14,7 +14,7 @@ Multiple Excel files from Shopify exports, including:
 Orders data
 Product information
 Customer details
-(All stored here:https://drive.google.com/drive/folders/17qrxrbWd04_T8TTYmuidmTC5KCWWIIn1?usp=sharing
+(All stored here:https://drive.google.com/drive/folders/17qrxrbWd04_T8TTYmuidmTC5KCWWIIn1?usp=drive_link)
 
 ✨ Features / Highlights:
 🔍 Business Problem:
