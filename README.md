@@ -1,3 +1,4 @@
+
 # Shopify-Live-Insights
 📝 Description / Purpose:
 A real-time, interactive dashboard designed in Power BI to monitor and analyze key Shopify eCommerce metrics including sales, orders, customer behavior, and product performance — all in a user-friendly, insight-driven format.
@@ -42,8 +43,9 @@ Identified revenue leaks and low-performing products
 Enhanced reporting experience with interactive visuals and drill-downs
 
 Screenshots:
-What the dashboard looks like: https://github.com/Swatidahiya25/Shopify-Live-Insights/blob/main/Shopify%20Analysis%20Dashboard.png    
-https://github.com/Swatidahiya25/Shopify-Live-Insights/blob/main/Details%20Tab.png
+What the dashboard looks like: 
+![Details Tab](https://github.com/user-attachments/assets/2337a888-bf3a-46d9-be4f-7e709ee081b7)
+![Shopify Analysis Dashboard](https://github.com/user-attachments/assets/229e8370-4661-4ea1-bd26-78b52038d681)
 
 
 
